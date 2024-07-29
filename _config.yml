@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Eric Kao
+subtitle: "A testing ground for future endevours."
+email: eric.kao303@gmail.com
+name: Eric Kao
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  A testing ground for future endevours.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -81,26 +81,26 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/eric9016
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Eric Kao
+    url: https://www.linkedin.com/in/li-hwan-kao/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
